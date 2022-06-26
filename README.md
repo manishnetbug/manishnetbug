@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @manishnetbug
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on www.faceonblock.com ...
-- 📫 How to reach me -Mail me on faceonblock007@gmail.com
+- 🌱 I’m currently learning ReactJs
+- 💞️ I’m looking to collaborate on Open Source Project in ReactJs
+- 📫 How to reach me -Mail me on manish.devops.architect@gmail.com
 
 <!---
 manishnetbug/manishnetbug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
